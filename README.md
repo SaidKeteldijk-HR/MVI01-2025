@@ -1,2 +1,4 @@
-# MVI01-2025
-Programming project for MVI01
+# Minor mechatronica 
+Objectdetection assignment for course for MVI01
+
+# 
